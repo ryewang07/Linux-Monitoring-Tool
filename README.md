@@ -5,6 +5,7 @@ how to run
 
 Compile the code with: gcc mySystemStats.c -o mySystemStats
 Then call: ./mySystemStats  flags        See the list of flags below:
+
 Flags:
 	--user: reports the user usage(how many users are logged in)
  	--system: reports the system info(ram, cpu)
